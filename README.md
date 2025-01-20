@@ -13,7 +13,7 @@ The script uses `ffmpeg` via the `ffmpeg-python` library to perform the conversi
 
 ## Note on Empty Directories
 
-This project includes empty `input` and `output` directories tracked using `.gitkeep` files to ensure they are present in the repository. You can safely delete them.
+This project includes empty `input` and `output` directories tracked using `.gitkeep` files to ensure they are present in the repository. You can safely delete the .gitkeep files.
 
 ## Requirements
 
