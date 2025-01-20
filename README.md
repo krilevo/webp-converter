@@ -11,6 +11,10 @@ The script uses `ffmpeg` via the `ffmpeg-python` library to perform the conversi
 - Automatically creates the output folder if it does not exist
 - Customizable encoding parameters for better quality control
 
+## Note on Empty Directories
+
+This project includes empty `input` and `output` directories tracked using `.gitkeep` files to ensure they are present in the repository. You can safely delete them.
+
 ## Requirements
 
 - Python 3.6 or higher
